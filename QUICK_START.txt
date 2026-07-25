@@ -1,0 +1,129 @@
+================================================================================
+  DIGITAL CLOCK - FREE EDITION
+  No Login • No Key • No Account • 100% Free
+================================================================================
+
+QUICK START:
+
+  1. DOWNLOAD ALL FILES
+     Download the entire folder from GitHub
+
+  2. BUILD THE .EXE (Choose ONE method):
+
+     METHOD A - EASIEST (Windows):
+     - Double-click: BUILD_FREE.bat
+     - Wait 1-2 minutes
+     - Done!
+
+     METHOD B - Command Line:
+     - Open Command Prompt
+     - Type: python BUILD_FREE.bat
+
+     METHOD C - Python Direct:
+     - Open Command Prompt in folder
+     - Type: pip install PyInstaller pytz
+     - Type: python -m PyInstaller --onefile --windowed --name=DigitalClockFREE digital_clock_free.py
+
+  3. FIND YOUR .EXE
+     - Look in: dist/DigitalClockFREE.exe
+     - Size: ~60 MB (normal size)
+
+  4. RUN IT
+     - Double-click: DigitalClockFREE.exe
+     - Clock appears with 12 time zones
+     - Updates every second
+
+  5. SHARE IT
+     - Send DigitalClockFREE.exe to anyone
+     - Works on any Windows computer
+     - No installation needed
+     - No account required
+
+================================================================================
+
+FEATURES:
+
+  ✓ 12 Major Time Zones
+  ✓ Real-time Updates (Every Second)
+  ✓ Beautiful Dark UI
+  ✓ NO Login Required
+  ✓ NO License Key
+  ✓ NO Account Needed
+  ✓ NO Ads
+  ✓ NO Tracking
+  ✓ Works Offline
+  ✓ 100% Free
+  ✓ Open Source
+
+================================================================================
+
+SYSTEM REQUIREMENTS:
+
+  - Windows 7, 8, 10, or 11
+  - 60 MB disk space
+  - That's it!
+
+================================================================================
+
+TROUBLESHOOTING:
+
+  Q: "Python not found"
+  A: Download from https://www.python.org/downloads/
+     Check "Add Python to PATH" during install
+
+  Q: ".bat file won't run"
+  A: Right-click → Run as Administrator
+
+  Q: ".exe won't start"
+  A: Run as Administrator or disable antivirus temporarily
+
+  Q: "ModuleNotFoundError: pytz"
+  A: Type: pip install pytz
+     Then run the build again
+
+================================================================================
+
+CITIES INCLUDED:
+
+  + New York (America/New_York)
+  + Los Angeles (America/Los_Angeles)
+  + London (Europe/London)
+  + Paris (Europe/Paris)
+  + Tokyo (Asia/Tokyo)
+  + Hong Kong (Asia/Hong_Kong)
+  + Sydney (Australia/Sydney)
+  + Dubai (Asia/Dubai)
+  + Singapore (Asia/Singapore)
+  + Bangkok (Asia/Bangkok)
+  + Istanbul (Europe/Istanbul)
+  + São Paulo (America/Sao_Paulo)
+
+================================================================================
+
+COMPLETELY FREE - NO RESTRICTIONS!
+
+  Use for:
+  ✓ Personal projects
+  ✓ Business
+  ✓ Gifts
+  ✓ Modifications
+  ✓ Sharing
+  ✓ Anything!
+
+================================================================================
+
+PROOF: THIS IS 100% FREE
+
+  - No login popup
+  - No account requirement
+  - No license key
+  - No expiration date
+  - No ads
+  - No tracking
+  - Open source code (see digital_clock_free.py)
+
+================================================================================
+
+ENJOY YOUR CLOCK! ⏰
+
+================================================================================
